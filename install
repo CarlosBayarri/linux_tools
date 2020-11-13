@@ -1,0 +1,44 @@
+apache2-
+sudo apt-get install apache2
+
+filezilla-
+sudo apt-get install filezilla
+
+tomcat7-
+sudo apt-get install tomcat7
+
+postgres-
+sudo apt-get install postgres postgres-contrib
+
+pgadmin3-
+sudo apt-get install pgadmin3
+
+postgis-
+sudo add-apt-repository ppa:ubuntugis/ubuntugis-unstable
+sudo apt-get update
+sudo apt-get install postgis
+
+gdal-
+sudo apt-get install gdal-bin
+
+putty-
+sudo apt-get install putty
+
+visual studio code
+sudo dpkg -i code_1.21.1-1521038896_amd64.deb
+sudo apt-get install -f
+sudo apt-get install code
+
+gufw. for ufw (firewall)
+sudo apt-get install gufw
+
+pip-
+sudo apt-get install python-pip python-dev build-essential
+
+virtualbox
+sudo apt-get install virtualbox
+
+
+
+
+
